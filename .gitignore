@@ -29,3 +29,5 @@ node_modules
 pnpm-lock.json
 package-lock.json
 yarn.lock
+
+.idea
